@@ -1,0 +1,12 @@
+{
+    "22": {
+        "state": "open",
+        "service": "SSH",
+        "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+    },
+    "80": {
+        "state": "open",
+        "service": "HTTP",
+        "banner": "HTTP/1.1 400 Bad Request\r\nDate: Wed, 12 Aug 2026 06:43:17 GMT\r\nServer: Apache/2."
+    }
+}
